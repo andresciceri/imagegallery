@@ -1,1 +1,7 @@
 This is a git repository for the project "Image Gallery" for the class "Desarrollo de aplicaciones ágiles"
+
+You need to download the menu plugin with the next command:
+
+  pip install django-simple-menu
+  
+Or for more information you can visite: http://django-simple-menu.readthedocs.org/en/latest/installation.html
